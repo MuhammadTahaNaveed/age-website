@@ -1,3 +1,6 @@
+notifications:
+  jobs:   dev@age.apache.org
+
 publish:
   whoami: asf-site
 
